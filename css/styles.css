@@ -108,7 +108,7 @@ header{
   /* Your code here */
   /* Set background-image to header.jpg in the images folder */
   background-image: url("../images/header.jpg");
-  background-color: #DDDDDD, #858585, #707070 #B3B3B3;
+  background-color: #DDDDDD;
   min-height: 400px;
   /* Span one row */
   grid-row: 2;
